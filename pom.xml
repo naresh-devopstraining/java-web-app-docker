@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>java-web-app</artifactId>
+	<artifactId>java-web-application</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
 	
@@ -23,8 +23,6 @@
 		<spring.version>5.0.7.RELEASE</spring.version>
 		<junit.version>4.12</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://172.31.33.248:9000</sonar.host.url>
-                <sonar.login>d3238a51ad98f473838b7f2e365f666a32342620</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
